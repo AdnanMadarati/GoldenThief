@@ -14,11 +14,11 @@ ___
 ### Home Screen
 ![Home Screen](images/img.png)
 ### Tutorial
-![Tutorial](images/Screenshot 2024-01-16 171936.png)
+![Tutorial](images/tutorial.png)
 ### During Gameplay
-![Gameplay](images/Screenshot 2024-01-18 124851.png)
+![Gameplay](images/duringGamePlay.png)
 ### GameOver
-![GameOver](images/Screenshot 2024-01-16 172005.png)
+![GameOver](images/GameOver.png)
 ___
 
 
